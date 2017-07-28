@@ -22,6 +22,7 @@
 		42A92B8A1F2B224200E490EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42A92B8D1F2B224200E490EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		42A92B8F1F2B224200E490EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42A92B961F2B23F100E490EC /* Strategy Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Strategy Pattern.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		42A92B771F2B224200E490EC = {
 			isa = PBXGroup;
 			children = (
+				42A92B961F2B23F100E490EC /* Strategy Pattern.playground */,
 				42A92B821F2B224200E490EC /* DesignPatterns */,
 				42A92B811F2B224200E490EC /* Products */,
 			);
@@ -304,6 +306,7 @@
 				42A92B941F2B224200E490EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
